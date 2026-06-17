@@ -1,0 +1,13 @@
+frames_path: "C:/Users/Uzair/Desktop/CNL/CharacterRecognitionPipeline/tmp/toy_story/frames"
+output_path: "C:/Users/Uzair/Desktop/CNL/CharacterRecognitionPipeline/tmp/toy_story/characters"
+
+characters:
+  - "Peep"
+  - "Slink"
+  - "Army"
+  - "Potato"
+  - "Buzz"
+  - "Woody"
+  - "No Characters"
+  - "Person"
+  - "Rex"
