@@ -22,7 +22,7 @@ Activate it:
 
 ### Install required packages:
 
-`pip install -r requirements.txt`
+`pip install pillow pyyaml`
 
 ### Run:
 
